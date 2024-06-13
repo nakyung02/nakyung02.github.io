@@ -11,7 +11,7 @@
 }
 @font-face {
     font-family: "SCDream4.otf";
-    src: url("fonts/SCDream4.otf") format("truetype");
+    src: url("fonts/SCDream4.otf") format("opentype");
     /*src: url("fonts/Pretendard-Regular.ttf") format("truetype"); 트루타입 폰트인 경우 */
 }
 /* 웹 상의 폰트 파일을 사용하는 경우 */
